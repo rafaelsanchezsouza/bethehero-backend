@@ -6,6 +6,8 @@ npm-debug.log
 *.env
 *.dev
 .DS_Store
+semanaomnistack11.code-workspace
+notas
 
 # Docker
 Dockerfile
